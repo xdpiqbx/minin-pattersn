@@ -18,3 +18,8 @@ flyweight
 proxy - https://youtu.be/YJVj4XNASDk?t=3434
 
 3 behaviour
+chain-of-responsibility - https://youtu.be/YJVj4XNASDk?t=3763
+comand
+iterator
+mediator
+observer https://youtu.be/YJVj4XNASDk?t=5158
