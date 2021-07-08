@@ -23,3 +23,5 @@ comand
 iterator
 mediator
 observer https://youtu.be/YJVj4XNASDk?t=5158
+state
+strategy
